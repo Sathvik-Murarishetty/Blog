@@ -1,4 +1,4 @@
-# Blog Page
+# BLOG PAGE
 
 This Blog Page is a web application for reading and exploring blog entries. Users can view blogs, search for specific topics, and navigate through paginated content.
 
